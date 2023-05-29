@@ -5,15 +5,15 @@ This repository contains three code files for conducting a static test with Ardu
 ## Contents
 
 - `static_test_sender.ino`: Arduino code for sending static test data.
-- `static_test_receiver.ino`: C code for receiving static data from an Arduino.
+- `static_test_receiver.ino`: Arduino code for receiving static data from an Arduino.
 - `uimotor.py`: Python code for creating the user interface to monitor static test values.
 
 ## Prerequisites
 
 To run the static test application, you will need the following:
 
-- Arduino IDE: To upload the `static_test_sender.ino` code to the Arduino board.
-- C compiler: To compile and run the `static_test_receiver.ino` code.
+- Arduino IDE: To upload the `static_test_sender.ino` & `static_test_receiver.ino` code to the Arduino boards.
+- Arduino compiler: To compile and run the `static_test_receiver.ino` & `static_test_sender.ino` code.
 - Python: To run the `uimotor.py` Python script.
 
 ## Customization
