@@ -1,0 +1,31 @@
+shadow 
+transparent 0 0 
+environment 
+showroom 
+floor visible nonreflective "Materials\miscellaneous\studio materials\shadow floor.p2m"
+without_mapping
+end_textures
+offset 0
+height 0
+length 0
+width 0
+rotation 0
+auto_resize_off
+end_positions
+model xz_plane 
+background 
+image "J:\am\sldworks\DATA\images\textures\background\landscape04-BG_04.jpg" 
+none 
+background_multiplier 1.1 
+background_environment 
+image "\images\textures\background\landscape04.hdr" 
+spherical_env 
+environment_multipliers 1 0.66 
+sw_scene_rotating_envmap 0 
+environment_rotation 0.000000 
+floor_reflectivity 0.000000 
+pv_background_image_brightness 1.000000 
+pv_rendering_brightness 1.000000 
+pv_scene_reflectivity 1.000000 
+bg_image_fit_to_sw_graphics_area false
+end 
